@@ -1,0 +1,12 @@
+package de.mi.vuwmse.spiel;
+
+/**
+ * @author Max
+ * Auswahl der möglichen Spielausgänge
+*	Test für Git
+ */
+public enum Ergebnisse {
+    Sieg,
+    Niederlage,
+    Unentschieden
+}
